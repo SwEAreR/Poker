@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e38858722041fd48ae69a15dd5645fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alibaba Health Font 2.0 PY
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba0a5fb77d18bd64a93603d239bf1123, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

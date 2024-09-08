@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48a1eb83b96a5d24cab9769a2be26c13
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alibaba Health Font 2.0 CN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 847ac30cd701b6745a81745f7314de47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
